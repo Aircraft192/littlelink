@@ -1,3 +1,9 @@
+# Personal Website
+This is the repository for my personal website. It is built on a fork of LittleLink because I have absolutely no idea how CSS works.
+
+&ndash; Aircraft192
+
+---
 ![Logo](https://cdn.cottle.cloud/GitHub/LittleLink/littlelink.gif)
 
 # LittleLink
